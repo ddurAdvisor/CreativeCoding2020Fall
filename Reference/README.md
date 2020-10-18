@@ -1,14 +1,5 @@
 Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
----
-
-⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
-
----
 
 ## Contents
 
